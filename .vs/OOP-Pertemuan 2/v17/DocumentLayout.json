@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tria Untari Sasmito\\Kampus\\TUGAS\\Semester 2\\OOP1\\All Pertemuan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A95A78D-AA7B-40B7-826B-530D88195D78}|OOP1-Pertemuan 2\\OOP1-Latihan_Pertemuan2\\OOP1-Latihan_Pertemuan2.vcxproj|C:\\Users\\Tria Untari Sasmito\\Kampus\\TUGAS\\Semester 2\\OOP1\\All Pertemuan\\OOP1-Pertemuan 2\\OOP1-Latihan_Pertemuan2\\OOP1-Latihan_Pertemuan2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5A95A78D-AA7B-40B7-826B-530D88195D78}|OOP1-Pertemuan 2\\OOP1-Latihan_Pertemuan2\\OOP1-Latihan_Pertemuan2.vcxproj|solutionrelative:OOP1-Pertemuan 2\\OOP1-Latihan_Pertemuan2\\OOP1-Latihan_Pertemuan2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65146B8E-794F-4E7A-8DB6-9260B526BB22}|OOP1-Pertemuan 2\\OOP1-StudyCase_PaymentSystem\\OOP1-StudyCase_PaymentSystem.vcxproj|C:\\Users\\Tria Untari Sasmito\\Kampus\\TUGAS\\Semester 2\\OOP1\\All Pertemuan\\OOP1-Pertemuan 2\\OOP1-StudyCase_PaymentSystem\\OOP1-StudyCase_PaymentSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{65146B8E-794F-4E7A-8DB6-9260B526BB22}|OOP1-Pertemuan 2\\OOP1-StudyCase_PaymentSystem\\OOP1-StudyCase_PaymentSystem.vcxproj|solutionrelative:OOP1-Pertemuan 2\\OOP1-StudyCase_PaymentSystem\\OOP1-StudyCase_PaymentSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OOP1-StudyCase_PaymentSystem.cpp",
+              "DocumentMoniker": "C:\\Users\\Tria Untari Sasmito\\Kampus\\TUGAS\\Semester 2\\OOP1\\All Pertemuan\\OOP1-Pertemuan 2\\OOP1-StudyCase_PaymentSystem\\OOP1-StudyCase_PaymentSystem.cpp",
+              "RelativeDocumentMoniker": "OOP1-Pertemuan 2\\OOP1-StudyCase_PaymentSystem\\OOP1-StudyCase_PaymentSystem.cpp",
+              "ToolTip": "C:\\Users\\Tria Untari Sasmito\\Kampus\\TUGAS\\Semester 2\\OOP1\\All Pertemuan\\OOP1-Pertemuan 2\\OOP1-StudyCase_PaymentSystem\\OOP1-StudyCase_PaymentSystem.cpp",
+              "RelativeToolTip": "OOP1-Pertemuan 2\\OOP1-StudyCase_PaymentSystem\\OOP1-StudyCase_PaymentSystem.cpp",
+              "ViewState": "AgIAANsAAAAAAAAAAAAAAOUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T02:38:52.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OOP1-Latihan_Pertemuan2.cpp",
+              "DocumentMoniker": "C:\\Users\\Tria Untari Sasmito\\Kampus\\TUGAS\\Semester 2\\OOP1\\All Pertemuan\\OOP1-Pertemuan 2\\OOP1-Latihan_Pertemuan2\\OOP1-Latihan_Pertemuan2.cpp",
+              "RelativeDocumentMoniker": "OOP1-Pertemuan 2\\OOP1-Latihan_Pertemuan2\\OOP1-Latihan_Pertemuan2.cpp",
+              "ToolTip": "C:\\Users\\Tria Untari Sasmito\\Kampus\\TUGAS\\Semester 2\\OOP1\\All Pertemuan\\OOP1-Pertemuan 2\\OOP1-Latihan_Pertemuan2\\OOP1-Latihan_Pertemuan2.cpp",
+              "RelativeToolTip": "OOP1-Pertemuan 2\\OOP1-Latihan_Pertemuan2\\OOP1-Latihan_Pertemuan2.cpp",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAAAHwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T02:24:24.594Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
